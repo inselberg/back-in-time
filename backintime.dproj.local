@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.01.23 23:14:27.868.pas,C:\Users\root\Documents\RAD Studio\Projects\Unit1.pas=D:\!src\bds\!ok\backintime\Unit1.pas</Transaction>
+    <Transaction>2011.01.23 23:14:27.868.dfm,C:\Users\root\Documents\RAD Studio\Projects\Unit1.dfm=D:\!src\bds\!ok\backintime\Unit1.dfm</Transaction>
+    <Transaction>2011.01.23 23:14:39.522.dproj,C:\Users\root\Documents\RAD Studio\Projects\Project1.dproj=D:\!src\bds\!ok\backintime\backintime.dproj</Transaction>
+    <Transaction>2011.01.23 23:34:50.046.pas,D:\!src\bds\!ok\backintime\Unit2.pas=D:\!src\bds\!units\dates.pas</Transaction>
+  </Transactions>
+</BorlandProject>
